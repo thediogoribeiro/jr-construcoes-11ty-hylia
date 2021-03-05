@@ -1,12 +1,29 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: JOÃO RIBEIRO
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
 socialImage: ''
 ---
+# Construções
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+#### Materializamos o seu sonho.
+Recebemos cada projeto com uma visão sustentável e humana, sempre tendo em conta as singularidades de cada espaço e o potencial estrutural da obra.
+<br>
+<button>
+VER PROJECTOS
+<img class="" src=""/>
+</button>
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+#### Vamos diretos ao assunto?
+Partilhe o seu projeto connosco.
+Pode contar com um atendimento diferenciado e eficaz.
+<br>
+<button>
+CONTACTAR
+<img class="" src=""/>
+</button>
+
+
+[//]: <> Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
